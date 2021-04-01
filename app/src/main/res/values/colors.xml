@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lt_blue_200">#259BF6</color>
+    <color name="lt_blue_500">#255DA1</color>
+    <color name="blue_700">#1A4897</color>
+    <color name="lt_green_200">#66F48A</color>
+    <color name="lt_green_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
